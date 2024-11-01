@@ -36,9 +36,6 @@ Troubleshooting
 
 - Contact Adu Boakye  at aduboakyeyiadomowusu@gmail.com for technical issues.
 
-
-
-Contributing
-
 Contributions are welcome! Please fork the repository and submit a pull request.
 
+There is no database language is included  in this app it's only java programing 
